@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966" width="400"/>
+  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="400"/>
 </div>
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+student+👩‍🎓;A+volunteer+🌱;A+leader+🚀;A+programmer+👩🏻‍💻;A+content+creator+🎒;A+STEM+enthusiast+👾)](https://git.io/typing-svg)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
