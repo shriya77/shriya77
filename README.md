@@ -38,11 +38,11 @@
 
 ### :woman_technologist: About Me :
 I am a full time high school student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Malaysia.
-- :telescope: I’m working as a Project manager for the GIRLS IN CODE SEA organisation
+- :telescope: I’m working as a Project manager for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
 
-- :seedling: Exploring ethical questions in cybersecurity
+- :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
 
-- :zap: In my free time, I complete python challenges and code apps in swift.
+- :zap: Learning Javascript, Python and C
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)
 
