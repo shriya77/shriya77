@@ -38,7 +38,7 @@
 
 ### :woman_technologist: About Me :
 I am a full time high school student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Malaysia.
-- :telescope: Working as a Manager at the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
+- :telescope: Working as Manager for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
 
 - :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
 
