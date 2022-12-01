@@ -55,4 +55,4 @@ I am a full time high school student <img src="https://media.giphy.com/media/WUl
 ### 👩‍🎓 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shriya77&theme=deepBlue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFEF00&dates=00E4FF&sideNums=00FFEF&background=000000&ring=00E4FF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya77&count-private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
