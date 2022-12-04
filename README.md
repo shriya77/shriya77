@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://pixabay.com/images/id-2179083/" title="space" alt="space" width="400" height="400"/>&nbsp;
 </div>
 
 ---
