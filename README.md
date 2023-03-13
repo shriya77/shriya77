@@ -46,7 +46,7 @@ I am a full time high school student <img src="https://media.giphy.com/media/WUl
 
 - :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
 
-- :🤔: Manager of Team Singularity competing in the F1 in schools World Finals 2023
+- 🏎️ Manager of Team Singularity competing in the F1 in schools World Finals 2023
 
 - :zap: Learning Javascript, Python and C
 
