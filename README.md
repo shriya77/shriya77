@@ -46,6 +46,8 @@ I am a full time high school student <img src="https://media.giphy.com/media/WUl
 
 - :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
 
+- :🤔: Manager of Team Singularity competing in the F1 in schools World Finals 2023
+
 - :zap: Learning Javascript, Python and C
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)
