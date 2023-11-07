@@ -36,11 +36,11 @@
 
 ### :woman_technologist: About Me :
 I am a full time high school student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Malaysia.
-- :telescope: Working as Manager and Graphic designer for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
+- :telescope: Working as Manager and Fundraising Leader for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
 
 - :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
 
-- 🏎️ Manager of Team Singularity competing in the F1 in schools World Finals 2023
+- 📕 Published a research paper on machine learning algorithms in computational biology 
 
 - :zap: Learning Javascript, Python and C
 
