@@ -36,7 +36,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a full time high school student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Malaysia.
+I am a full time computer science student at the University of Texas at Dallas. I did my schooling in Malaysia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Malaysia.
 - :telescope: Working as Manager and Fundraising Leader for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
 
 - :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
