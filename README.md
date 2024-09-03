@@ -36,14 +36,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a full time computer science student at the University of Texas at Dallas. I did my schooling in Malaysia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Malaysia.
+I am a full time computer science student at the University of Texas at Dallas. I did my schooling at Garden International School Malaysia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Working as Manager and Fundraising Leader for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
 
 - :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
 
 - 📕 Published a research paper on machine learning algorithms in computational biology 
 
-- :zap: Learning Javascript, Python and C
+- :zap: Learning C++ and Node.js
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)
 
