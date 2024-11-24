@@ -43,7 +43,7 @@ I am a full time computer science student at the University of Texas at Dallas. 
 
 - 📕 Published a research paper on machine learning algorithms in computational biology 
 
-- :zap: Learning C++ and Node.js
+- :zap: Developing an astronomy app with a team using React and JavaScript
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)
 
