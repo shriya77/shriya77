@@ -46,7 +46,7 @@ I am a full time computer science student at the University of Texas at Dallas. 
 
 - :seedling: Organizing workshops and creating learning opportunities for the technologists of tomorrow.
 
-- 📕 Published a research paper on machine learning algorithms in computational biology and quantum computing's impacts on the global economic divide.
+- 📕 Published a research paper on machine learning algorithms in computational biology and another on quantum computing's impacts on the global economic divide.
 
 - :zap: Developing an astronomy app with a team using React and JavaScript
 
