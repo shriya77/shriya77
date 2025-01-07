@@ -42,11 +42,11 @@
 
 ### :woman_technologist: About Me :
 I am a full time computer science student at the University of Texas at Dallas. I did my schooling at Garden International School Malaysia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Working as Manager and Fundraising Leader for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
+- :telescope: Worked as Manager and Fundraising Leader for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
 
-- :seedling: Discussing ethical implications in computer science and teaching the technologists of tomorrow
+- :seedling: Organizing workshops and creating learning opportunities for the technologists of tomorrow.
 
-- 📕 Published a research paper on machine learning algorithms in computational biology 
+- 📕 Published a research paper on machine learning algorithms in computational biology and quantum computing's impacts on the global economic divide.
 
 - :zap: Developing an astronomy app with a team using React and JavaScript
 
