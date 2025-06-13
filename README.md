@@ -38,7 +38,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a full time computer science student at the University of Texas at Dallas. I did my schooling at Garden International School Malaysia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a full time computer science + business intelligence and analytics student at the University of Texas at Dallas. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Worked as Manager and Fundraising Leader for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
 
 - :seedling: Organizing workshops and creating learning opportunities for the technologists of tomorrow.
