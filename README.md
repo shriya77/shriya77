@@ -29,8 +29,6 @@ height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/512/microsoft-office-2019.png" title="Microsoft Office" alt="Office" width="40" height="40"/>
 </div>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://shriya-kalyan.netlify.app/))
-
 <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/shriya-kalyan-7b8130243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,6 +38,7 @@ height="40"/>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=shriya77&style=flat-square&color=blue" alt=""/>
 
 ---
+[![My Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://shriya-kalyan.netlify.app/))
 
 ### 👩‍💻 About Me
 
