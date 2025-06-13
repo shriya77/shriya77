@@ -38,7 +38,7 @@ height="40"/>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=shriya77&style=flat-square&color=blue" alt=""/>
 
 ---
-[![My Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://shriya-kalyan.netlify.app/))
+[![My Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)]([https://shriya-kalyan.netlify.app/](https://shriya-kalyan.netlify.app/))
 
 ### 👩‍💻 About Me
 
