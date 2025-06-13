@@ -3,7 +3,7 @@
 </div>
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+student+👩‍🎓;A+volunteer+🌱;A+leader+🚀;A+programmer+👩🏻‍💻;A+content+creator+🎒;A+STEM+enthusiast+👾)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+founder+👩‍🎓;A+student+🌱;A+leader+🚀;A+programmer+👩🏻‍💻;A+content+creator+🎒;An+Aspiring+intern+👾)](https://git.io/typing-svg)
 
 <h3>Languages: 📝</h3>
 <div>
