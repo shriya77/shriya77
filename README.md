@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGYKxulOwRTBw/profile-displaybackgroundimage-shrink_350_1400/B56ZdnkHWIGoAY-/0/1749789211215?e=1755129600&v=beta&t=fLMNJSKCwjHseguWTZJKH6Fvmq-rPs0ftgPtaoa7CtQ)
+![MasterHead](https://github.com/shriya77/shriya77/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
 <div id="header" align="center">
 </div>
 
