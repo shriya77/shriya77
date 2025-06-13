@@ -37,20 +37,21 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a full time computer science + business intelligence and analytics student at the University of Texas at Dallas. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Worked as Manager and Fundraising Leader for the [GIRLS IN CODE SEA](https://www.instagram.com/girlsincodesea/) organisation
+### 👩‍💻 About Me
 
-- :seedling: Organizing workshops and creating learning opportunities for the technologists of tomorrow.
+I’m a full-time Computer Science + Business Intelligence & Analytics student at the University of Texas at Dallas.  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📕 Published a research paper on machine learning algorithms in computational biology and another on quantum computing's impacts on the global economic divide.
+- 🚀 Founder of [Materna](https://www.instagram.com/materna.health/) — a femtech platform tackling pregnancy health disparities using AI & digital tools  
+- 🛠️ Lead Developer @ VisioNari — building a global learning hub from scratch  
+- 🔭 Former Manager & Fundraising Lead at [Girls in Code SEA](https://www.instagram.com/girlsincodesea/)  
+- 🌱 Building Okapage with Shopify's APIs to help D2C brands with customer retention and loyalty
+- 🧬 Co-authored research on ML in computational biology + quantum computing's impact on the global economic divide  
+- 🌌 Built an interactive astronomy app with React and JavaScript  
 
-- :zap: Developing an astronomy app with a team using React and JavaScript
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)
-
-- 📩 You can also reach me at: shriyakkx@gmail.com 
-
+- 📫 How to reach me:  
+  [![LinkedIn Badge](https://img.shields.io/badge/-Shriya%20Kalyan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)  
+  📩 Email: **shriyakkx@gmail.com**
 
 ---
 
