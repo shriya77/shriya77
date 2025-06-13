@@ -42,12 +42,12 @@
 I’m a full-time Computer Science + Business Intelligence & Analytics student at the University of Texas at Dallas.  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🚀 Founder of [Materna](https://www.instagram.com/materna.health/) — a femtech platform tackling pregnancy health disparities using AI & digital tools  
-- 🛠️ Lead Developer @ VisioNari — building a global learning hub from scratch  
+- 🚀 Founder of [Materna](https://www.linkedin.com/company/materna-women) — a femtech platform tackling pregnancy health disparities using AI & digital tools  
+- 🛠️ Lead Developer @ [VisioNari](https://visionari-women.netlify.app/) — building a global learning hub from scratch  
 - 🔭 Former Manager & Fundraising Lead at [Girls in Code SEA](https://www.instagram.com/girlsincodesea/)  
 - 🌱 Building Okapage with Shopify's APIs to help D2C brands with customer retention and loyalty
 - 🧬 Co-authored research on ML in computational biology + quantum computing's impact on the global economic divide  
-- 🌌 Built an interactive astronomy app with React and JavaScript  
+- 🌌 Built an interactive [astronomy app](https://github.com/acm-projects/Lumina) with React Native and JavaScript  
 
 - 📫 How to reach me:  
   [![LinkedIn Badge](https://img.shields.io/badge/-Shriya%20Kalyan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)  
