@@ -1,4 +1,4 @@
-![MasterHead](...)
+![MasterHead](https://github.com/shriya77/shriya77/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <div id="header" align="center">
 </div>
 
