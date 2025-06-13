@@ -16,8 +16,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="Prolog" alt="Prolog" width="40" height="40"/>&nbsp;
 </div>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://shriya-kalyan.netlify.app/))
-
 <h3>Tools: ⚙️</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,6 +28,8 @@
 height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/512/microsoft-office-2019.png" title="Microsoft Office" alt="Office" width="40" height="40"/>
 </div>
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://shriya-kalyan.netlify.app/))
 
 <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/shriya-kalyan-7b8130243/">
