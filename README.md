@@ -33,6 +33,7 @@
 
 ### 👩‍💻 About Me
 
+</div>
 CS student at UT Dallas. I build things, care about what happens after they ship, and like working on messy problems with real users. Mostly focused on software, applied AI, and health-adjacent projects.
 ---
 
