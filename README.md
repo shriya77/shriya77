@@ -36,21 +36,22 @@
 CS student at UT Dallas. I build things, care about what happens after they ship, and like working on messy problems with real users. Mostly focused on software, applied AI, and health-adjacent projects.
 ---
 
-### 🚀 Selected Work
+### 🚀 Current Work
 
-- **Materna** — Founder & Lead Engineer  
-  Femtech platform addressing pregnancy health disparities using AI-powered workflows and digital tools.
+Materna — Founder & Developer
+Building a maternal health platform; leading a 45-person team, Axxess Hackathon winner (350+ participants), 104+ waitlist users pre-launch.
 
-- **Lumina** — ACM Projects  
-  Interactive astronomy application built with React Native and JavaScript.  
-  → Focused on usability, visualization, and real-time interaction.
+WalkWithMe — Impact CRM (EPCS, WIP)
+Developing a CRM platform for a real nonprofit client in a team of 7, focused on donor tracking, outreach workflows, and deployment-ready features.
 
-- **VisioNari** — Lead Developer  
-  Built and shipped a global learning platform from the ground up.
+Outamation — AI & Workflow Automation Extern
+Built OCR + retrieval pipelines for 200+ page documents, reducing manual review time by ~70% using Python, OCR, and RAG.
 
-- **EPCS Industry Project (WIP)**  
-  Semester-long engineering project with a real company/nonprofit client.  
-  → Currently in development; focused on requirements gathering, implementation, and delivery.
+Tech Me Kid (TMK) — Software Engineering Intern
+Built and shipped production features for a booking platform used by 15,000+ seniors, handling real scheduling and matching edge cases.
+
+PLTL @ UT Dallas — Calculus Tutor
+Lead weekly problem-solving sessions for 25+ students, identifying common failure points and improving concept retention.
 
 ---
 
@@ -70,8 +71,6 @@ CS student at UT Dallas. I build things, care about what happens after they ship
 ---
 
 ### 📊 GitHub Activity
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shriya77&theme=deepBlue&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya77&theme=vision-friendly-dark)](https://github.com/shriya77/github-readme-stats)
 
