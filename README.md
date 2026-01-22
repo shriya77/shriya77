@@ -1,64 +1,81 @@
 ![MasterHead](https://github.com/shriya77/shriya77/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
-<div id="header" align="center">
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Builder;Computer+Science+Student;Founder;Engineer)](https://git.io/typing-svg)
+
 </div>
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+founder+🌱;A+student+👩‍🎓;A+leader+🚀;A+programmer+👩🏻‍💻;A+content+creator+📸;An+Aspiring+intern+💼)](https://git.io/typing-svg)
 
-<h3>Languages: 📝</h3>
+### 🧠 Tech Stack
+
+**Languages**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="Prolog" alt="Prolog" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="40"/>
 </div>
 
-<h3>Tools: ⚙️</h3>
+**Tools**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" title="AWS" alt="AWS" width="40" height="40"
-height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/512/microsoft-office-2019.png" title="Microsoft Office" alt="Office" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
 </div>
-
-<div id="badges" align="right">
-  <a href="https://www.linkedin.com/in/shriya-kalyan-7b8130243/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=shriya77&style=flat-square&color=blue" alt=""/>
 
 ---
-[![My Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://shriya-kalyan.netlify.app/)
 
 ### 👩‍💻 About Me
 
-I’m a full-time Computer Science + Business Intelligence & Analytics student at the University of Texas at Dallas.  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I’m a **Computer Science student at UT Dallas** focused on building real products at the intersection of **software, AI, and digital health**.
 
-- 🚀 Founder of [Materna](https://www.linkedin.com/company/materna-women) — a femtech platform tackling pregnancy health disparities using AI & digital tools  
-- 🛠️ Lead Developer @ [VisioNari](https://visionari-women.netlify.app/) — building a global learning hub from scratch  
-- 🔭 Former Manager & Fundraising Lead at [Girls in Code SEA](https://www.instagram.com/girlsincodesea/)  
-- 🌱 Building Okapage with Shopify's APIs to help D2C brands with customer retention and loyalty
-- 🧬 Co-authored research on ML in computational biology + quantum computing's impact on the global economic divide  
-- 🌌 Built an interactive [astronomy app](https://github.com/acm-projects/Lumina) with React Native and JavaScript  
-
-- 📫 How to reach me:  
-  [![LinkedIn Badge](https://img.shields.io/badge/-Shriya%20Kalyan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-kalyan-7b8130243/)  
-  📩 Email: **shriyakkx@gmail.com**
+I care about systems that work outside the happy path — production behavior, edge cases, and users who don’t read instructions.
 
 ---
 
-### 👩‍🎓 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shriya77&theme=deepBlue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FFEF00&dates=00E4FF&sideNums=00FFEF&background=000000&ring=00E4FF)](https://git.io/streak-stats)
+### 🚀 Selected Work
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya77&count-private=true&theme=vision-friendly-dark)](https://github.com/shriya77/github-readme-stats)
+- **Materna** — Founder & Lead Engineer  
+  Femtech platform addressing pregnancy health disparities using AI-powered workflows and digital tools.
+
+- **Lumina** — ACM Projects  
+  Interactive astronomy application built with React Native and JavaScript.  
+  → Focused on usability, visualization, and real-time interaction.
+
+- **VisioNari** — Lead Developer  
+  Built and shipped a global learning platform from the ground up.
+
+- **EPCS Industry Project (WIP)**  
+  Semester-long engineering project with a real company/nonprofit client.  
+  → Currently in development; focused on requirements gathering, implementation, and delivery.
+
+---
+
+### 🧬 Research & Leadership
+
+- Co-authored research applying **machine learning to computational biology**  
+- Former Project Manager & Fundraising Lead, **Girls in Code SEA**  
+- Led and coordinated large technical teams across student orgs and hackathons
+
+---
+
+### 📫 Connect
+- 🌐 Portfolio: [https://shriya-kalyan.netlify.app  ](https://shriya-gpt.vercel.app/)
+- 💼 LinkedIn: https://www.linkedin.com/in/shriya-kalyan-7b8130243/  
+- 📩 Email: shriyakkx@gmail.com  
+
+---
+
+### 📊 GitHub Activity
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shriya77&theme=deepBlue&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya77&theme=vision-friendly-dark)](https://github.com/shriya77/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=shriya77&style=flat-square&color=blue"/>
