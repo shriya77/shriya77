@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/shriya77/shriya77/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Builder;Computer+Science+Student;Founder;Engineer)](https://git.io/typing-svg)
 
@@ -33,10 +33,7 @@
 
 ### 👩‍💻 About Me
 
-I’m a **Computer Science student at UT Dallas** focused on building real products at the intersection of **software, AI, and digital health**.
-
-I care about systems that work outside the happy path — production behavior, edge cases, and users who don’t read instructions.
-
+CS student at UT Dallas. I build things, care about what happens after they ship, and like working on messy problems with real users. Mostly focused on software, applied AI, and health-adjacent projects.
 ---
 
 ### 🚀 Selected Work
