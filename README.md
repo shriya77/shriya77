@@ -10,23 +10,42 @@
 
 ### 🧠 Tech Stack
 
-**Languages**
+<h3>Languages</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="40"/>
 </div>
 
-**Tools**
+<h3>Frameworks & Frontend</h3>
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40"/>
+</div>
+
+<h3>Backend, Cloud & Systems</h3>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
+</div>
+
+<h3>Enterprise Platforms</h3>
+<div>
+  <img src="https://img.icons8.com/color/48/microsoft.png" title="Microsoft Dataverse"/>
+  <img src="https://img.icons8.com/color/48/azure-1.png" title="Microsoft Entra ID (Azure Active Directory)"/>
+</div>
+
+<h3>Design</h3>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
 </div>
 
 ---
