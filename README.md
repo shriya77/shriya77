@@ -58,19 +58,19 @@ CS student at UT Dallas. I build things, care about what happens after they ship
 
 ### 🚀 Current Work
 
-Materna — Founder & Developer
+Materna: Founder & Developer
 Building a maternal health platform; leading a 45-person team, Axxess Hackathon winner (350+ participants), 104+ waitlist users pre-launch.
 
-WalkWithMe — Impact CRM (EPCS, WIP)
+WalkWithMe: Impact CRM (EPCS, WIP)
 Developing a CRM platform for a real nonprofit client in a team of 7, focused on donor tracking, outreach workflows, and deployment-ready features.
 
-Outamation — AI & Workflow Automation Extern
+Outamation: AI & Workflow Automation Extern
 Built OCR + retrieval pipelines for 200+ page documents, reducing manual review time by ~70% using Python, OCR, and RAG.
 
-Tech Me Kid (TMK) — Software Engineering Intern
+Tech Me Kid (TMK): Software Engineering Intern
 Built and shipped production features for a booking platform used by 15,000+ seniors, handling real scheduling and matching edge cases.
 
-PLTL @ UT Dallas — Calculus Tutor
+PLTL @ UT Dallas: Calculus Tutor
 Lead weekly problem-solving sessions for 25+ students, identifying common failure points and improving concept retention.
 
 ---
