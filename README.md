@@ -1,97 +1,56 @@
-![MasterHead](https://github.com/shriya77/shriya77/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+# Hi, I'm Shriya 👋
 
-<div align="left">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CS+%40+UT+Dallas;Software+Engineer;AI%2FML+Security+Researcher;Builder)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Builder;Computer+Science+Student;Founder;Engineer)](https://git.io/typing-svg)
+CS student at **UT Dallas** (B.S. '28, 3.97 GPA). I build full-stack and applied-AI systems, and lately I've been focused on AI security: making models harder to fool and making their outputs trustworthy.
 
-</div>
+---
+
+### 🚀 Recent Work
+
+**Lavner Education**: AI & STEM Instructor Intern *(May – Jul 2026)*  
+Taught 70+ students advanced Python, neural networks and agentic AI through project-based builds with PyTorch, TensorFlow, Scikit-learn and Ollama.
+
+**Goldman Sachs**: Emerging Leader Series, Engineering *(Jan – Apr 2026)*  
+Built a full-stack investment education platform (Angular, Spring Boot, PostgreSQL, Firebase) with REST APIs for portfolio management, Monte Carlo projections, and an OpenAI + FastMCP chatbot with tool calling.
+
+**Outamation**: AI & Workflow Automation Extern *(Jun – Dec 2025)*  
+Built OCR and RAG pipelines (Tesseract, PaddleOCR, PyMuPDF, LlamaIndex) for 200+ page mortgage documents, cutting manual review time by ~70%.
+
+**Tech Me Kid**: Software Engineering Intern *(Jul – Aug 2025)*  
+Shipped a full-stack booking platform used by 15,000+ seniors, including backend auto-matching by preferences, time zones and availability.
+
+---
+
+### 🛠️ Projects
+
+**[Scamouflage](https://github.com/shriya77/Scamouflage)**: Catches toll, delivery and government scam sites when their HTTPS certificate is issued, before the first text goes out. It streams ~885 certs/sec from Certificate Transparency logs on IBM LinuxONE, scores domains with an ML model (98.9% precision), and signs alerts with CPACF hardware crypto. *IBM Z Datathon 2026.*
+
+**Spectra**: AI/ML security research on visual prompt injection in multimodal LLMs. Benchmarked attacks (text overlays, semantic triggers, steganography) across models, then evaluated 10+ defenses that cut attack success by up to ~99%.
+
+**[ShriyaGPT](https://shriya-gpt.vercel.app/)**: An AI-powered portfolio (React, TypeScript, OpenAI) that answers recruiter questions and matches job descriptions, with source-grounded answers, anti-hallucination rules and rate limiting.
 
 ---
 
 ### 🧠 Tech Stack
 
-<h3>Languages</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="40"/>
-</div>
-
-<h3>Frameworks & Frontend</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40"/>
-</div>
-
-<h3>Backend, Cloud & Systems</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
-</div>
-
-<h3>Enterprise Platforms</h3>
-<div>
-  <img src="https://img.icons8.com/color/48/microsoft.png" title="Microsoft Dataverse"/>
-  <img src="https://img.icons8.com/color/48/azure-1.png" title="Microsoft Entra ID (Azure Active Directory)"/>
-</div>
-
-<h3>Design</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
-</div>
+**Languages:** Python · Java · JavaScript · TypeScript · C++ · SQL · HTML/CSS  
+**Frameworks:** React · React Native · Angular · Spring Boot · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy  
+**Data & Cloud:** PostgreSQL · Firebase · Supabase · Google Cloud Platform  
+**Tools:** Git · Linux · REST APIs · FastMCP · Ollama · Tesseract · PaddleOCR
 
 ---
 
-### 👩‍💻 About Me
+### 🌱 Leadership
 
-</div>
-CS student at UT Dallas. I build things, care about what happens after they ship, and like working on messy problems with real users. Mostly focused on software, applied AI, and health-adjacent projects.
----
-
-### 🚀 Current Work
-
-Materna: Founder & Developer
-Building a maternal health platform; leading a 45-person team, Axxess Hackathon winner (350+ participants), 104+ waitlist users pre-launch.
-
-WalkWithMe: Impact CRM (EPCS, WIP)
-Developing a CRM platform for a real nonprofit client in a team of 7, focused on donor tracking, outreach workflows, and deployment-ready features.
-
-Outamation: AI & Workflow Automation Extern
-Built OCR + retrieval pipelines for 200+ page documents, reducing manual review time by ~70% using Python, OCR, and RAG.
-
-Tech Me Kid (TMK): Software Engineering Intern
-Built and shipped production features for a booking platform used by 15,000+ seniors, handling real scheduling and matching edge cases.
-
-PLTL @ UT Dallas: Calculus Tutor
-Lead weekly problem-solving sessions for 25+ students, identifying common failure points and improving concept retention.
-
----
-
-### 🧬 Research & Leadership
-
-- Co-authored research applying **machine learning to computational biology**  
-- Former Project Manager & Fundraising Lead, **Girls in Code SEA**  
-- Led and coordinated large technical teams across student orgs and hackathons
+- **PLTL Calculus Tutor @ UT Dallas**: lead weekly problem-solving sessions for 25 students
+- **Founder, Materna**: won the Axxess Hackathon (350+ participants), then led a 45-person team toward an MVP
+- Co-authored research applying machine learning to computational biology
 
 ---
 
 ### 📫 Connect
-- 🌐 Portfolio: [https://shriya-kalyan.netlify.app  ](https://shriya-gpt.vercel.app/)
-- 💼 LinkedIn: https://www.linkedin.com/in/shriya-kalyan-7b8130243/  
-- 📩 Email: shriyakkx@gmail.com  
 
----
+🌐 [shriya-gpt.vercel.app](https://shriya-gpt.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/shriya-kalyan-7b8130243/) · 📩 shriyakkx@gmail.com
 
-### 📊 GitHub Activity
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya77&theme=vision-friendly-dark)](https://github.com/shriya77/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=shriya77&style=flat-square&color=blue"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya77&theme=vision-friendly-dark&layout=compact)](https://github.com/shriya77)
